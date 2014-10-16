@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bil:home|Door43 (bil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bil|d43-bil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bil/archive/master.zip|d43-bil.zip]]
+
+**Recent Changes**
+{{changes>ns = bil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bil|Ethnologue data]]
+
